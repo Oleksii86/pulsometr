@@ -1,11 +1,3 @@
-@import 'base/mixines';
-@import 'base/variables';
-@import 'blocks/advantages';
-@import 'blocks/buttons';
-@import 'blocks/header';
-@import 'blocks/promo';
-@import 'blocks/title';
-
 * {
     font-family: 'Museo Sans Cyrl', sans-serif;
 }
@@ -14,3 +6,14 @@
     width: 945px;
     margin: 0 auto;
 }
+
+@import 'base/mixines';
+@import 'base/variables';
+@import 'blocks/advantages';
+@import 'blocks/buttons';
+@import 'blocks/header';
+@import 'blocks/promo';
+@import 'blocks/title';
+@import 'blocks/consultation';
+@import 'blocks/forms';
+@import 'base/media';
